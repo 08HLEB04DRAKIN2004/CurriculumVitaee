@@ -1,2 +1,2 @@
 # CurriculumVitaee
-https://08HLEB04DRAKIN2004.github.io/MarkDown/cv
+https://08HLEB04DRAKIN2004.github.io/CurriculumVitae/cv
