@@ -16,6 +16,9 @@ I am a student of the Belarusian-Russian University. I study at the Faculty of E
  ***
 # Code Example
 -----
+
+
+```
 namespace DeveloperApiCSharpSample
 {
     class Program
@@ -41,3 +44,5 @@ namespace DeveloperApiCSharpSample
         }
     }
 }
+
+```
