@@ -1,1 +1,1 @@
-https://08HLEB04DRAKIN2004.github.io/CurriculumVitaee/сv
+https://08hleb04drakin2004.github.io/CurriculumVitaee/сv
